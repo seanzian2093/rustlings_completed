@@ -1,0 +1,5 @@
+/Users/s0046425/git_projects/2024/rust/rustlings/target/debug/deps/libiterators4-7d690fe916fe7da4.rmeta: exercises/18_iterators/iterators4.rs
+
+/Users/s0046425/git_projects/2024/rust/rustlings/target/debug/deps/iterators4-7d690fe916fe7da4.d: exercises/18_iterators/iterators4.rs
+
+exercises/18_iterators/iterators4.rs:
